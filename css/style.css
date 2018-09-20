@@ -4,6 +4,9 @@ body{
 
 li{
 	text-decoration: none;
-	display:inline;
+	display:inline-block;
 	color: black;
+	width:10%;
 }
+
+h1{font-family:Times;font-size: 40px;}
